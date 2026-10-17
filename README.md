@@ -36,6 +36,14 @@ The team uses Trello to organize tasks and track project progress.
 
 Planning and requirements analysis .
 
+ ## Development Methodology
 
+For the **Course Academy (LMS)** project, we have selected the **Agile Development Methodology**.
+
+### Methodology Justification:
+ **Iterative & Incremental Progress:** Agile allows our team to develop and test core features of the LMS (such as user authentication, course creation, and enrollment) in short cycles (Sprints) rather than waiting until the end of the project.
+ **Flexibility to Changing Requirements:** Since educational tools and user needs evolve based on feedback, Agile provides the flexibility to adapt and refine system requirements as new features are introduced.
+ **Continuous Collaboration & Feedback:** Agile promotes close collaboration among team members through regular status updates and continuous integration, ensuring transparent tracking of project milestones via Trello and GitHub.
+ **Early Risk Mitigation:** Developing components iteratively allows early testing and detection of functional bugs or integration issues before the final submission.
 
 
