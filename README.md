@@ -38,7 +38,7 @@ Planning and requirements analysis .
 
  ## Development Methodology
 
-For the **Course Academy (LMS)** project, we have selected the **Agile Development Methodology** (specifically utilizing the **Scrum** framework).
+For the **Course Academy (LMS)** project, we have selected the **Agile Development Methodology**.
 
 ### Methodology Justification:
  **Iterative & Incremental Progress:** Agile allows our team to develop and test core features of the LMS (such as user authentication, course creation, and enrollment) in short cycles (Sprints) rather than waiting until the end of the project.
